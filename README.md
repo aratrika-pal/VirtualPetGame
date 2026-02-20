@@ -36,7 +36,7 @@ pip install tk
 
 How to Play
 Run the program:
-python main.py
+python virtualpet.py
 Enter your pet’s name, type, and color.
 Use the action buttons to:
 Feed your pet
